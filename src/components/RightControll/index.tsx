@@ -1,6 +1,8 @@
 import * as S from './style'
 import { Button } from '../Button';
 import { Analogic } from '../Analogic';
+import * as React from 'react'
+
 export function RightController(): JSX.Element {
 
     // const [isOpen, setIsOpen] = useState(false);

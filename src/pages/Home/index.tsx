@@ -1,4 +1,4 @@
-import React from 'react'
+import * as React from 'react'
 import { LeftController } from "../../components/LeftControll"
 import { RightController } from "../../components/RightControll"
 import { Screen } from "../../components/Screen"
